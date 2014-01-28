@@ -1,0 +1,11 @@
+app_0000_Marco
+app_0001_Matar
+app_0002_Coger
+app_0003_Pelea
+app_0004_Evoluciona
+app_0005_Fusiona
+app_0006_Lame
+app_0007_Besa
+app_0008_Sueña
+app_0009_Caga
+app_0010_Come
